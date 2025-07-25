@@ -19,7 +19,6 @@
 
 
 🗂️ Projects
-List your top projects with clean link emojis:
 
 ✈️ World Travels – Frontend travel destinations site (HTML, CSS, JavaScript).
 
