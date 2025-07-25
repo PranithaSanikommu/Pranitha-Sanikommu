@@ -27,5 +27,5 @@
 🎓 Student Management System – Manage student and course data with CRUD operations (Java, Spring Boot, MySQL).
 
 
-
+⭐ **If you find my projects helpful, please consider starring them to support and encourage my learning journey!**
 
